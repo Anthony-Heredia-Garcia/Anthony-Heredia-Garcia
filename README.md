@@ -12,6 +12,11 @@ To "sweeten" the deal for any potential employers out there, I bake some mean co
 
 If you want to know more, or just want to chat, my email is anthony.heredia.garcia@gmail.com. Look forward to hearing from you. :D
 
+<p>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Heredia-Garcia&hide=ruby,shell)](https://github.com/Anthony-Heredia-Garcia)
+</p>
+
 <!--
 **Anthony-Heredia-Garcia/Anthony-Heredia-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
