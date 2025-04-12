@@ -2,9 +2,9 @@
 
 My goal is to create and work on projects that I can be proud of. I want to make things that are fun and that people enjoy. 
 
-I have always been a book-worm and loved understanding how things work. I worked as an artisan baker for over 3 years at an amazing bakery in Southern California (Village Bread - If you're ever in Calimesa, tell them Anthony says hello). This passion may have led me to baking. I wanted to understand how the process works and the high level of detail and science that goes into it. With my fiancé landing a job across the country, it was a difficult decision to leave, but I knew it was a once in a lifetime experience to live in New York City.
+I have always been a book-worm and loved understanding how things work. I worked as an artisan baker for over 3 years at an amazing bakery in Southern California (Village Bread - If you're ever in Calimesa, tell them Anthony says hello). I wanted to understand how the process works as well as the level of detail and science that goes into it. With my fiancé landing a job across the country, it was a difficult decision to leave, but I knew it was a once in a lifetime experience to live in New York City.
 
-Moving across the country, I knew this was the perfect opportunity to try something new. Having switched careers multiple times throughout my life, this was a chance that I couldn't pass up to try something I've always been interested in. I have always wanted to work in Software Engineering, so I began my journey with online schooling as well as freelance work and applying what I've learned. 
+Moving across the country, I knew this was the perfect opportunity to try something new. Having switched careers multiple times throughout my life, I couldn't pass up the opportunity to try something I've always been interested in. I have always wanted to work in Software, so I began my journey with online schooling as well as freelance work and applying what I've learned. 
 
 When I'm not looking things up on Stack Overflow and Google, my interests are Video Games, Baking, Comics and Cats. I have 4 adorable cats whom I have many pictures of and will share them if given the opportunity. 
 
