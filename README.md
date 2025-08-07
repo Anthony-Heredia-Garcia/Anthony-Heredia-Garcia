@@ -19,8 +19,11 @@ November 2022 - Present
 
 ---
 💻 **Languages and Skills**
+
 Frontend: HTML, CSS, JavaScript, React, Redux
+
 Backend: Python, Django, MySQL
+
 Cloud & Tools: AWS Product Suite, Git, GitHub
 <!--
 <p>
